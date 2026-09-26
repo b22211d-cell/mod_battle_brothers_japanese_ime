@@ -25,3 +25,6 @@ IME版を手動導入する前に`README_IME.txt`を確認してください。�
 他の日本語化MODと併用すると、翻訳やフォントが競合する可能性があります。他のMODが追加した文章は英語のままになる場合があります。
 
 英語のままの箇所、表示の崩れ、不自然な訳、エラーを見つけた場合は、スクリーンショットを添えて[Issues](https://github.com/b22211d-cell/mod_battle_brothers_japanese_ime/issues)でお知らせください。
+
+noteでも機能を紹介しています。よければご覧ください。
+https://note.com/kohama22211/n/n35a13306b8e5
