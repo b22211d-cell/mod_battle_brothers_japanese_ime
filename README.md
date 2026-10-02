@@ -6,10 +6,10 @@ Battle Brothersのメニュー、イベント、契約、アイテム、パー�
 
 ## ダウンロード
 
-**[v1.0の配布ページ](https://github.com/b22211d-cell/mod_battle_brothers_japanese_ime/releases/tag/v1.0)**から、次のどちらか一方をダウンロードしてください。
+**[v1.0の配布ページ](https://github.com/b22211d-cell/mod_battle_brothers_japanese_ime/releases)**から、次のどちらか一方をダウンロードしてください。
 
-- **IME補助同梱版** `mod_bb_vanilla_ja_1.0_with_ime.zip`：日本語表示に加え、名前・肩書・傭兵団名を入力する際の変換中の文字表示と、半角/全角キーの誤操作対策を含みます。
-- **通常版** `mod_bb_vanilla_ja_1.0.zip`：日本語表示のみ。IME補助は含みません。
+- **IME補助同梱版** `mod_bb_vanilla_ja_xx_with_ime.zip`：日本語表示に加え、名前・肩書・傭兵団名を入力する際の変換中の文字表示と、半角/全角キーの誤操作対策を含みます。
+- **通常版** `mod_bb_vanilla_ja_xx.zip`：日本語表示のみ。IME補助は含みません。
 
 GitHubが自動表示する「Source code」はMOD本体ではありません。
 
@@ -18,7 +18,7 @@ GitHubが自動表示する「Source code」はMOD本体ではありません。
 - **通常版**：ZIPを展開せず、Battle Brothersの`data`フォルダに入れます。
 - **IME補助同梱版**：外側のZIPを展開し、中の`data`と`win32`フォルダをゲームフォルダへ配置します。`data`内の日本語MODのZIPは展開しないでください。
 
-IME版を手動導入する前に`README_IME.txt`を確認してください。既に`win32/version.dll`や別のASIローダーを使っている場合は、無条件に上書きしないでください。必要な前提MODやVortexでの導入方法も[配布ページ](https://github.com/b22211d-cell/mod_battle_brothers_japanese_ime/releases/tag/v1.0)に記載しています。
+IME版を手動導入する前に`README_IME.txt`を確認してください。既に`win32/version.dll`や別のASIローダーを使っている場合は、無条件に上書きしないでください。必要な前提MODやVortexでの導入方法も[配布ページ](https://github.com/b22211d-cell/mod_battle_brothers_japanese_ime/releases)に記載しています。
 
 ## 注意・不具合報告
 
