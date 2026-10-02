@@ -6,7 +6,7 @@ Battle Brothersのメニュー、イベント、契約、アイテム、パー�
 
 ## ダウンロード
 
-**[v1.0の配布ページ](https://github.com/b22211d-cell/mod_battle_brothers_japanese_ime/releases)**から、次のどちらか一方をダウンロードしてください。
+**[配布ページ](https://github.com/b22211d-cell/mod_battle_brothers_japanese_ime/releases)**から、次のどちらか一方をダウンロードしてください。
 
 - **IME補助同梱版** `mod_bb_vanilla_ja_xx_with_ime.zip`：日本語表示に加え、名前・肩書・傭兵団名を入力する際の変換中の文字表示と、半角/全角キーの誤操作対策を含みます。
 - **通常版** `mod_bb_vanilla_ja_xx.zip`：日本語表示のみ。IME補助は含みません。
