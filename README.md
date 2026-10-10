@@ -28,5 +28,8 @@ ZipをVortexにドラッグ＆ドロップしてもファイルが配置され�
 
 英語のままの箇所、表示の崩れ、不自然な訳、エラーを見つけた場合は、スクリーンショットを添えて[Issues](https://github.com/b22211d-cell/mod_battle_brothers_japanese_ime/issues)でお知らせください。
 
+以下の匿名フォームでも報告を受け付けています。ログインやメールアドレスは不要です。
+https://tally.so/r/q40lyG
+
 noteでも機能を紹介しています。よければご覧ください。
 https://note.com/kohama22211/n/n35a13306b8e5
